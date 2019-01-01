@@ -1,15 +1,11 @@
-//
-//  Google_Keep_DesktopTests.swift
-//  Google Keep DesktopTests
-//
-//  Created by Takuma Watanabe on 2018/12/30.
-//  Copyright © 2018 Takuma Watanabe. All rights reserved.
-//
+/*
+ * Copyright (c) 2018 Takuma Watanabe.
+ */
 
 import XCTest
 @testable import Google_Keep_Desktop
 
-class Google_Keep_DesktopTests: XCTestCase {
+class GoogleKeepDesktopTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
